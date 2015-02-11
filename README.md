@@ -1,4 +1,4 @@
 # wwdc
 WWDC scholarship
 
-(/instructions.png)
+![](/instructions.png)
